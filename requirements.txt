@@ -1,0 +1,6 @@
+pandas
+scapy
+torch
+scikit-learn
+matplotlib
+joblib
